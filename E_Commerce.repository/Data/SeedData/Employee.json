@@ -1,0 +1,18 @@
+﻿[
+  {
+    "Name": "John Doe",
+    "DepartmentId": 1
+  },
+  {
+    "Name": "Jane Smith",
+    "DepartmentId": 2
+  },
+  {
+    "Name": "Michael Johnson",
+    "DepartmentId": 1
+  },
+  {
+    "Name": "Emily Brown",
+    "DepartmentId": 3
+  }
+]

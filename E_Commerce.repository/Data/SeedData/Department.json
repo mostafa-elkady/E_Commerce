@@ -1,0 +1,21 @@
+﻿[
+  {
+    "Name": "Human Resources",
+    "DateOfCreation": "2023-05-10"
+  },
+  {
+
+    "Name": "Marketing",
+    "DateOfCreation": "2022-11-15"
+  },
+  {
+
+    "Name": "Finance",
+    "DateOfCreation": "2024-01-20"
+  },
+  {
+
+    "Name": "Development",
+    "DateOfCreation": "2024-01-20"
+  }
+]
